@@ -1,3 +1,4 @@
+![Most Common Mistakes](https://github.com/chanronnie/Tableau_Most_Common_CV_Mistakes/assets/121308347/07310181-f298-4943-8c1b-8325f2d4651b)
 ## About this project
 
 #### Objective
